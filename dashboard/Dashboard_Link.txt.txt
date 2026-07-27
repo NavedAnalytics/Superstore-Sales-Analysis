@@ -1,0 +1,23 @@
+Superstore Sales Dashboard
+
+Interactive Dashboard (Looker Studio)
+
+Dashboard URL:
+https://datastudio.google.com/reporting/b4b9822b-7227-4586-b9ac-d8bd8afcfdac 
+
+Description:
+This interactive dashboard provides insights into Superstore sales performance, including:
+- Total Sales
+- Total Profit
+- Monthly Sales Trend
+- Sales by Category
+- Sales by Region
+- Customer Analysis
+- Product Performance
+- Ship Mode Analysis
+
+Created By:
+Naved Khan
+
+GitHub Repository:
+https://github.com/yourusername/Superstore-Sales-Dashboard
